@@ -10,13 +10,17 @@ Here, I implement and demonstrate the core concepts of the paper, combining bloc
 
 ### Gas Usage Distribution
 
-![Gas usage distribution preview](img/gas_histogram.png)
+<p align="center">
+  <img src="img/gas_histogram.png" alt="Gas usage distribution preview" width="320" />
+</p>
 
 This figure shows the distribution of the transformed gas usage target used during model training.
 
 ### SHAP Feature Importance Summary
 
-![SHAP feature importance summary](img/shap_summary.png)
+<p align="center">
+  <img src="img/shap_summary.png" alt="SHAP feature importance summary" width="320" />
+</p>
 
 This figure highlights the most influential features contributing to the reputation scoring model.
 
